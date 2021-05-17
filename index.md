@@ -1,11 +1,24 @@
-![logofablab](https://torinotechmap.it/wp-content/uploads/2020/08/fablabto-logo.png)
+<p align="center">
+  <img width="600" height="400" src="https://torinotechmap.it/wp-content/uploads/2020/08/fablabto-logo.png">
+</p>
 <h1 align="center">
 SCHEDA MACCHINE FABLAB TO
 </h1>
 
 <h2 align="center">
-Questa pagina raccoglie i macchinari di cui puoi disporre al FabLab Torino e tutto ciò che devi sapere prima di utilizzarli!
+Questa pagina raccoglie i macchinari che puoi utilizzare al FabLab Torino e tutto ciò che devi sapere prima di usalri!
 </h2>
 
 ***
-# Vinyl Cut
+***
+
+# Vinyl Cutter
+<p align="center">
+  <img width="400" height="400" src="https://fasrsushi468.weebly.com/uploads/1/2/5/8/125843711/943085671.jpg">
+</p>
+
+### Il macchinario in breve
+È un macchinario a controllo numerico utilizzato per il taglio di fogli di plastica autoadesiva, anche chiamata vinile. 
+### Funzionamento
+### Materiali lavorabili
+### Processo step by step
