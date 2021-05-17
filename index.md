@@ -1,1 +1,6 @@
+---
+layout:default
+title:SCHEDA MACCHINE FABLAB TO
+---
+
 # SCHEDA MACCHINE FABLAB TO
