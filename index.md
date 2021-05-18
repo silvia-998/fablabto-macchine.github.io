@@ -14,6 +14,7 @@ Questa pagina raccoglie i macchinari che puoi utilizzare al FabLab Torino e tutt
   <img width="400" height="400" src="https://fasrsushi468.weebly.com/uploads/1/2/5/8/125843711/943085671.jpg">
 </p>
 
+[pagina vinylcut](/vinylcut/index.md)
 ### Il macchinario in breve
 È un macchinario a controllo numerico utilizzato per il taglio di fogli di plastica autoadesiva (chiamata vinile) e materiali in fogli con uno spessore massimo di 0,5 mm. 
 ### Funzionamento
