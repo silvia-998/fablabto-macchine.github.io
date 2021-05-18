@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <img width="600" height="400" src="https://torinotechmap.it/wp-content/uploads/2020/08/fablabto-logo.png">
+</p>
+<h1 align="center">
+SCHEDA MACCHINE FABLAB TO
+</h1>
 
-You can use the [editor on GitHub](https://github.com/silvia-998/how-to/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 align="center">
+Questa pagina raccoglie i macchinari che puoi utilizzare al FabLab Torino e tutto ciò che devi sapere prima di usarli!
+</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
+***
 
-### Markdown
+# Vinyl Cutter
+<p align="center">
+  <img width="400" height="400" src="https://fasrsushi468.weebly.com/uploads/1/2/5/8/125843711/943085671.jpg">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/silvia-998/how-to/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Il macchinario in breve
+È un macchinario a controllo numerico utilizzato per il taglio di fogli di plastica autoadesiva (chiamata vinile) e materiali in fogli con uno spessore massimo di 0,5 mm. 
+### Funzionamento
+### Materiali lavorabili
+### Processo step by step
