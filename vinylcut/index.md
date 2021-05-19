@@ -16,7 +16,7 @@ Testo sommario delle cose che servono
 
 ### Vinylcutter Roland CAMM-1 SERVO GX-24
 |caratteristiche tecniche| Valori |   
-|-------|--------|---------|   
+|-------|--------| 
 | Velocità di taglio | Da 10 a 500 mm/sec. (tutte le direzioni) |   
 | Pressione della lama | Da 30 a 250 gf |   
 | Risoluzione del Software | 0,025 mm/passo |   
