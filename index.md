@@ -9,7 +9,7 @@ Questa pagina raccoglie i macchinari che puoi utilizzare al FabLab Torino e tutt
 ***
 ***
 
-# Vinyl Cutter
+# Vinylcut
 <p align="center">
   <img width="400" height="400" src="https://fasrsushi468.weebly.com/uploads/1/2/5/8/125843711/943085671.jpg">
 </p>

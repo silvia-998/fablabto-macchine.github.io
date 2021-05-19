@@ -1,31 +1,52 @@
 # Vinylcut
 
 ## Inserire qua cosa puoi fare con la vc
-È un macchinario a controllo numerico utilizzato per il taglio di fogli di plastica autoadesiva (chiamata vinile) e materiali in fogli con uno spessore massimo di 0,5 mm. 
-[inserire link con più informazioni] https://en.wikipedia.org/wiki/Vinyl_cutter
+È un macchinario a controllo numerico utilizzato per il taglio di fogli di plastica autoadesiva (chiamata vinile) e materiali in fogli con uno spessore massimo di 0,5 mm. \
+[Per maggiori informazioni](https://en.wikipedia.org/wiki/Vinyl_cutter)
 
-Breve intro
-Esempio 1
+Tramite vinylcut si possono produrre banner, striscioni, prespaziati, grafica veicolare, insegne, segnaletica, vetrofanie, retroilluminati, stencil e termo-adesivi per magliette. È inoltre possibile trasformare la macchina in un plotter da disegno a penna, grazie ad appositi adattatori. 
+
+[esempio 1](inserire immagine)
 Foto e link dell'esempio.
-
 
 Esempi di lavorazione. (Applicazioni)
 
 ## Strumenti e file 
 Testo sommario delle cose che servono
-### Vinylcut
-Caratteristiche tecniche della macchina
+
+### Vinylcutter Roland CAMM-1 SERVO GX-24
+|caratteristiche tecniche|  |
+|---|---|
+| Velocità di taglio | Da 10 a 500 mm/sec. (tutte le direzioni) |
+| Pressione della lama | Da 30 a 250 gf |
+| Risoluzione del Software | 0,025 mm/passo |
+| Spessore massimo del materiale | 0,5 mm |
+| Larghezza del materiale caricabile | Da 50 a 700 mm |
+| Grandezza massima area di taglio | Larghezza: 584 mm Lunghezza: 25 m |
+| Grandezza minima area di taglio | Larghezza:  Lunghezza: |
+| Distanza di precisione | Errore di distanza percorsa inferiore a ±0.1 mm |
+| Ambiente ideale di lavoro | Temperatura: da 5 a 40°C Umidità: da 35 a 80% |
 
 ### Materiali
-Tipologie e spessori
-scegliere il materiale
+I materiali più utilizzati sono [vinile](inserire link venditore vinili), [poliestere](inserire link), poliuretano e sandblast, ma gestisce tranquillamente anche materiali più pesanti come PVC flessibili, floccati, fluorescenti e vinili riflettenti.
+Lo spessore e le dimensioni del materiale dipendono dal macchinario e dalla lama di taglio, vedere le [caratteristiche tecniche](#vinylcutter-roland-camm-1-servo-gx-24)
 
 ### PC coi software
+Computer con sistemi operativi successivi a Windows 98 SE.\
+I plotter da taglio Roland sono equipaggiati con il software [CutStudio](inserire link per scaricare). Il software consente di creare loghi e scritte e di modificarli, allargandoli, ruotandoli, specchiandoli e scalandoli.
 
 ### File 
-Descrizione delle caratteristiche del file, estensioni supportate ecc.
+Cutsudio\
+Supporta files di formato BMP, JPG, STX, AI ed EPS. Accetta inoltre immagini acquisite da scanner TWAIN 32. 
+
+Plug in per Illustrator e Corel Draw\
+CutStudio lavora anche come plug-in sui software Adobe Illustrator© (versioni successive a Illustrator 9) e Corel Draw© (versioni successive a Corel DRAW 10).
+
+Inkscape
+
 
 ### Accessori (forbici taglierini ecc.)
+Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di separazione, base del rullo, pinzette, materiale di prova, nastro applicativo, cavo USB, CD-ROM, manuale d’uso 
 
 ## Inserire qua come eseguire il taglio
 
