@@ -18,6 +18,7 @@ Caratteristiche tecniche della macchina
 
 ### Materiali
 Tipologie e spessori
+scegliere il materiale
 
 ### PC coi software
 
@@ -29,19 +30,51 @@ Descrizione delle caratteristiche del file, estensioni supportate ecc.
 ## Inserire qua come eseguire il taglio
 
 ### Accensione
+accensione pc
+accensione schermo
+accensione macchinario
 
 ### Caricare il materiale 
+scagliere il materiale(da mettere prima)
+
+abbassare la leva
+inserire il materiale
+spostare i rulli
+alzare la leva
+da schermo macchina selezionare il giusto media (ROTOLO/FOGLIO/BORDO) e premere enter
+
+posizionare la testina nel punto iniziale di taglio (da mettere dopo)
 
 ### Preparare il file // TODO
+inkscape
+apertura file
+controllo linee
+/
+cutstudio
+apertura file
 
+cutstudio
+impostare dimensione foglio/rotolo
+ridimensionare e spostare contorno di taglio
 
 ### Impostare i parametri di taglio
-gf della lama, offset
+gf della lama
+offset (dipende dalla lama)
 come eseguire il test
 
 ### Mandare in taglio
+posizionare la testina nel punto iniziale di taglio e impostare nuova origine
+
+cutstudio
+avviare il taglio
+
+controllo e regolazione taglio
+togliere il materiale
 
 ### Spegnimento 
+spegnere macchinario
+spegnere computer
+spegnere schermo
 
 ## Post-processing
 Come usare il transfer
