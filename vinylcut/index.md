@@ -15,17 +15,17 @@ Esempi di lavorazione. (Applicazioni)
 Testo sommario delle cose che servono
 
 ### Vinylcutter Roland CAMM-1 SERVO GX-24
-|caratteristiche tecniche|  |
-|---|---|
-| Velocità di taglio | Da 10 a 500 mm/sec. (tutte le direzioni) |
-| Pressione della lama | Da 30 a 250 gf |
-| Risoluzione del Software | 0,025 mm/passo |
-| Spessore massimo del materiale | 0,5 mm |
-| Larghezza del materiale caricabile | Da 50 a 700 mm |
-| Grandezza massima area di taglio | Larghezza: 584 mm Lunghezza: 25 m |
-| Grandezza minima area di taglio | Larghezza:  Lunghezza: |
-| Distanza di precisione | Errore di distanza percorsa inferiore a ±0.1 mm |
-| Ambiente ideale di lavoro | Temperatura: da 5 a 40°C Umidità: da 35 a 80% |
+|caratteristiche tecniche|  |\
+|---|---|\
+| Velocità di taglio | Da 10 a 500 mm/sec. (tutte le direzioni) |\
+| Pressione della lama | Da 30 a 250 gf |\
+| Risoluzione del Software | 0,025 mm/passo |\
+| Spessore massimo del materiale | 0,5 mm |\
+| Larghezza del materiale caricabile | Da 50 a 700 mm |\
+| Grandezza massima area di taglio | Larghezza: 584 mm Lunghezza: 25 m |\
+| Grandezza minima area di taglio | Larghezza:  Lunghezza: |\
+| Distanza di precisione | Errore di distanza percorsa inferiore a ±0.1 mm |\
+| Ambiente ideale di lavoro | Temperatura: da 5 a 40°C Umidità: da 35 a 80% |\
 
 ### Materiali
 I materiali più utilizzati sono [vinile](inserire link venditore vinili), [poliestere](inserire link), poliuretano e sandblast, ma gestisce tranquillamente anche materiali più pesanti come PVC flessibili, floccati, fluorescenti e vinili riflettenti.
