@@ -16,3 +16,13 @@ Questa pagina raccoglie i macchinari che puoi utilizzare al FabLab Torino e tutt
 
 link alla 
 [pagina dedicata](/vinylcut/index.md)
+
+# Lasercut
+
+link alla 
+[pagina dedicata](/lasercut/index.md)
+
+# 3D printer
+
+link alla 
+[pagina dedicata](/3d-printer/index.md)
