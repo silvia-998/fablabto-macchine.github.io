@@ -6,14 +6,15 @@
 
 Tramite vinylcut si possono produrre banner, striscioni, prespaziati, grafica veicolare, insegne, segnaletica, vetrofanie, retroilluminati, stencil e termo-adesivi per magliette. È inoltre possibile trasformare la macchina in un plotter da disegno a penna, grazie ad appositi adattatori. 
 
-[esempio 1](inserire immagine)
+[esempio 1](inserire immagine)   
 Foto e link dell'esempio.
 
 Esempi di lavorazione. (Applicazioni)
 
 ## Strumenti e file 
-Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi accessori utili. Questa deve però essere collegata ad un computer (fornito dal Fablab) contenente i driver e i programmi necessari. Infine il materiale da tagliare, è possibile portarlo da fuori, ma se ne può trovare un ampio campionario in sede.
-[foto campionario](inserire foto) 
+Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi accessori utili. Questa deve però essere collegata ad un computer (fornito dal Fablab) contenente i driver e i programmi necessari. Infine serve il materiale da tagliare, è possibile portarlo da fuori, ma se ne può trovare un ampio campionario in sede.   
+
+![foto campionario](img/foto-campionario.jpg) 
 
 ### Vinylcutter Roland CAMM-1 SERVO GX-24
 
