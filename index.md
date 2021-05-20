@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="333" src="https://torinotechmap.it/wp-content/uploads/2020/08/fablabto-logo.png">
+  <img width="500" height="333" src="img/fablabto-logo.png">
 </p>
 
 <h2 align="center">
