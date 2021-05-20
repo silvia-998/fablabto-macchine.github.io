@@ -12,7 +12,8 @@ Foto e link dell'esempio.
 Esempi di lavorazione. (Applicazioni)
 
 ## Strumenti e file 
-Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi accessori utili. Questa deve però essere collegata ad un computer (fornito dal Fablab) contenente i driver e i programmi necessari. Infine il materiale da tagliare, se ne può trovare un ampio campionario in sede, ma è anche possibile portarlo da fuori. 
+Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi accessori utili. Questa deve però essere collegata ad un computer (fornito dal Fablab) contenente i driver e i programmi necessari. Infine il materiale da tagliare, è possibile portarlo da fuori, ma se ne può trovare un ampio campionario in sede.
+[foto campionario](inserire foto) 
 
 ### Vinylcutter Roland CAMM-1 SERVO GX-24
 
@@ -49,25 +50,24 @@ Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di s
 ## Inserire qua come eseguire il taglio
 
 ### Accensione
-accensione pc
-accensione schermo
-accensione macchinario
+accensione pc accensione schermo (foto-modificarla evidenziando tasti di accensione)
+accensione macchinario (foto-modificarla evidenziando tasti di accensione)
 
 ### Caricare il materiale 
-scagliere il materiale(da mettere prima)
-
-abbassare la leva
-inserire il materiale
-spostare i rulli
-alzare la leva
-da schermo macchina selezionare il giusto media (ROTOLO/FOGLIO/BORDO) e premere enter
-
-posizionare la testina nel punto iniziale di taglio (da mettere dopo)
+scelto il materiale (foto)
+abbassare la leva (foto prima e dopo)
+inserire il materiale (foto allineamento)
+spostare i rulli (foto-aggiungere frecce spostamento)
+alzare la leva (foto prima e dopo)
+da schermo macchina selezionare il giusto media (ROTOLO/FOGLIO/BORDO) e premere enter (foto-evidenziare tasti necessari+foto completamento azione)
 
 ### Preparare il file // TODO
-inkscape
-apertura file
-controllo linee
+inserire chiavetta (foto)
+
+apertura inkscape (screen 01)
+apertura file (screen 02+screen 03)
+controllo linee (screen 04+screen 05)
+apri file in cutstudio (screen 06)
 /
 cutstudio
 apertura file
