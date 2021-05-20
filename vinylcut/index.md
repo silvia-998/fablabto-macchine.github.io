@@ -42,7 +42,7 @@ Il computer presente in laboratorio e collegato alla Vinylcut possiede i softwar
 Supporta file di formato BMP, JPG, STX, AI ed EPS. Accetta inoltre immagini acquisite da scanner TWAIN 32. 
 
 #### Plug in per Inkscape   
-Un'[estensione di Inkscape](https://wiki.inkscape.org/wiki/index.php/Inkscape_Extensions) permette di inviare il file di taglio a Cutsudio, ampliando le tipologie di file supportati da Cutstudio. Supporta file di formato 
+Un'[estensione di Inkscape](https://wiki.inkscape.org/wiki/index.php/Inkscape_Extensions) permette di inviare il file di taglio a Cutsudio, ampliando le tipologie di file supportati da Cutstudio. Supporta file di formato SVG, AI, DXF, CDR, PDF, BMP, JPG, PNG e TIFF.
 
 ### Accessori (forbici taglierini ecc.)
 Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di separazione, base del rullo, pinzette, materiale di prova, nastro applicativo, cavo USB, CD-ROM, manuale d’uso 
@@ -50,7 +50,7 @@ Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di s
 ## Inserire qua come eseguire il taglio
 
 ### Accensione
-accensione pc accensione schermo (foto-modificarla evidenziando tasti di accensione)
+accensione pc accensione schermo (foto-modificarla evidenziando tasti di accensione)   
 accensione macchinario (foto-modificarla evidenziando tasti di accensione)
 
 ### Caricare il materiale 
@@ -69,11 +69,11 @@ apertura file (screen 02+screen 03)
 controllo linee (screen 04+screen 05)
 apri file in cutstudio (screen 06)
 /
-cutstudio
-apertura file
+apertura cutstudio (manca screen)
+apertura file (manca screen)
 
-cutstudio
-impostare dimensione foglio/rotolo
+file su cutstudio (screen 07)   
+impostare dimensione foglio/rotolo (screen 08-)
 ridimensionare e spostare contorno di taglio
 
 ### Impostare i parametri di taglio
