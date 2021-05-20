@@ -51,25 +51,26 @@ Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di s
 ## Inserire qua come eseguire il taglio
 
 ### Accensione
-accensione pc accensione schermo   
+Accendere il computer e lo schermo ad esso collegato, premendo gli appositi tasti (evidenziati in figura).  
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)  
 
-accensione macchinario ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)
+Accendere il macchinario tramite il tasto __POWER__ (tenerlo premuto?) (evidenziato in figura).   
+![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)
 
 ### Caricare il materiale 
-scelto il materiale abbassare la leva   
+Prima di caricare nella macchina il materiale scelto, assicurarsi che la _loading lever_ (leva di caricamento) posteriore sia abbassata e nel caso non lo fosse, abbassarla.  
 ![foto prima e dopo](vinylcut/../img/500x300.png)   
 
-inserire il materiale   
+Inserire posteriormente il materiale facendolo scorrere attraverso la fessura della macchina. Quindi assicurarsi che sia parallelo alle _guide lines_ (linee guida) in rilievo alla base del macchinario.   
 ![foto allineamento](vinylcut/../img/500x300.png)
 
-spostare i rulli   
+Spostare i due _pinch roller_ (rulli di fissaggio) negli spazi bianchi segnati, facendoli scorrere dalla parte posteriore della macchina. 
 ![foto-aggiungere frecce spostamento](vinylcut/../img/500x300.png)   
 
-alzare la leva   
+Ricontrollare il posizionamento del materiale e alzare la _loading lever_ (leva di caricamento) per fissare il materiale alla Vinylcut.   
 ![foto prima e dopo](vinylcut/../img/500x300.png)   
 
-da schermo macchina selezionare il giusto media ROTOLO/FOGLIO/BORDO) e premere enter   
+Sul display del _operation panel_ (pannello di controllo) compare la scritta "CARICO FOGLIO". Premere __↑__ o __↓__ sulla pulsantiera per sbloccare la selezione del supporto. Quindi scegliere con i tasti __←__ o __→__ il tipo di supporto utilizzato, tra ROTOLO, FOGLIO o BORDO. Infine premere __ENTER__ per confermare la scelta.  
 ![foto-evidenziare tasti necessari+foto completamento azione](vinylcut/../img/500x300.png)
 
 ### Preparare il file // TODO
