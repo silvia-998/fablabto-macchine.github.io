@@ -101,7 +101,7 @@ LA Vinylcut durante il [caricamento del materiale](#caricare-il-materiale) misur
 
 È ora possibile ridimensionare e spostare il contorno di taglio.   
 Per ridurre lo spreco di materiale conviene utilizzare il comando __spostare__ (in alto a destra) per posizionare i contorni in corrispondenza dell'origine di taglio.   
-Per ridurre o aumentare le dimensioni del contorno si può agire sulle frecce agli angoli del file (tenendo premuto __SHIFT__ per mantenere le proporzioni) o, per avere una misura precisa, modificare i valori nella colonna destra (spuntare la casella __Conserva Aspetto__ per mantenere le proporzioni).
+Per ridurre o aumentare le dimensioni del contorno si può agire sulle frecce agli angoli del file (tenendo premuto __SHIFT__ per mantenere le proporzioni) o, per avere una misura precisa, modificare i valori nella colonna destra (spuntare la casella __Conserva Aspetto__ per mantenere le proporzioni).   
 ![screen 09-evidenziare comando spostare in alto e modifica dimensioni di lato](vinylcut/../img/500x300.png)
 
 ### Impostare i parametri di taglio
@@ -116,16 +116,18 @@ Il taglio è ben fatto se si riesce a spellicolare il cerchio senza rimuovere il
 ![foto tastierino-evidenziare tasti necessari+foto step del test](vinylcut/../img/500x300.png)
 
 ### Mandare in taglio
-posizionare la testina nel punto iniziale di taglio e impostare nuova origine   
+Prima di avviare il taglio è bene impostare il punto di origine. se si ha un foglio come supporto il punto di origine è sempre nell'angolo in basso a sinistra, invece nel caso del rotolo il punto di origine dipende dalla posizione di caricamento. In quest'ultimo caso è utile cambiare il punto di origine del taglio: spostare il _cutting carriage_ (carrello di taglio contenente la lama) nel punto di origine desiderato con i tasti __←__, __→__, __↑__ e __↓__. Nella posizione desiderata premere __ORIGIN__ sul _operation panel_ (pannello di controllo).
 ![foto tasto origine](vinylcut/../img/500x300.png)
 
-cutstudio avviare il taglio   
+Si può dunque avviare il taglio da Cutstudio, seguendo il percorso __tagliare__>__ok__.     
 ![screen 10-evidenziare tasti](vinylcut/../img/500x300.png)
 
-controllo e regolazione taglio   
+Durante il taglio è bene controllarne l'esecuzione. Nel caso di lievi imperfezioni nella pressione della lama, è possibile regolarla ulteriormente grazie allo slider __PEN FORCE__.
+Sulla superficie del materiale sarà visibile il contorno tagliato dalla Vinylcut.   
+A taglio eseguito si può portare in avanti il materiale con il tasto __↓__ del _operation panel_ (pannello di controllo) e nel caso si stia utilizzando un rotolo, tagliare il rettangolo lavorato.
 ![foto tastierino evidenziando pen force+risultato finale taglio](vinylcut/../img/500x300.png)   
 
-togliere il materiale   
+A fine lavorazione o per cambiare il materiale bisogna estrarre il rotolo o il foglio. Questo passaggio è simile alla [fase di caricamento](#caricare-il-materiale) e consiste nell'alzare la _loading lever_ (leva di caricamento) ed estrarre il materiale.   
 ![caricare il materiale ma al contrario](vinylcut/../img/500x300.png)
 
 ### Spegnimento 
