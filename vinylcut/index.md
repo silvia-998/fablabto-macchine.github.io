@@ -105,13 +105,14 @@ Per ridurre o aumentare le dimensioni del contorno si può agire sulle frecce ag
 ![screen 09-evidenziare comando spostare in alto e modifica dimensioni di lato](vinylcut/../img/500x300.png)
 
 ### Impostare i parametri di taglio
-gf della lama   
-![foto-evidenziare tasti necessari+foto completamento azione](vinylcut/../img/500x300.png)   
+Con diversi tipi di [materiali da tagliare](#materiali) e diversi spessori, la lama ha bisogno di più o meno forza (misurata in gf) per ottenere un taglio preciso e pulito. La pressione applicata dalla lama può essere modificata dal _operation panel_ (pannello di controllo) premendo sul tasto __FORCE__. Premere __←__ o __→__ sulla pulsantiera per sbloccare la selezione, quindi modificare i grammi forza con __↑__ e __↓__ e premere infine __ENTER__ per confermare la selezione.
+![foto-evidenziare tasti necessari](vinylcut/../img/500x300.png)   
 
-offset   
-![dipende dalla lama-manca foto di come cambiarlo](vinylcut/../img/500x300.png)   
+Il _display_ dovrebbe ora indicare la pressione della lama (espressa in gf), ma anche la velocità di taglio e la distanza di Offset. Quest'ultima dipende dalla lama montata ed è importante per avere dei cambi di direzione nel taglio precisi. Assicurarsi sempre che l'Offset indicato coincida con quello della lama in utilizzo.     
+![foto display + in futuro foto dello sticker che indica le caratteristiche della lama](vinylcut/../img/500x300.png)   
 
-come eseguire il test   
+Prima di procedere al taglio è buona pratica fare dei test per assicurarsi che tutti i parametri di taglio siano adatti. Tramite i tasti __←__ e __→__ si posiziona il _cutting carriage_ (carrello di taglio contenente la lama) in uno spazio inutilizzato, quindi premere il tasto __TEST__ per almeno un secondo.   
+Il taglio è ben fatto se si riesce a spellicolare il cerchio senza rimuovere il quadrato al suo interno e se la superficie dello strato protettivo è segnata (vedere foto di seguito).  
 ![foto tastierino-evidenziare tasti necessari+foto step del test](vinylcut/../img/500x300.png)
 
 ### Mandare in taglio
