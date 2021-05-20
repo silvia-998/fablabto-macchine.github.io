@@ -12,7 +12,7 @@ Foto e link dell'esempio.
 Esempi di lavorazione. (Applicazioni)
 
 ## Strumenti e file 
-Testo sommario delle cose che servono
+Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi accessori utili. Questa deve però essere collegata ad un computer (fornito dal Fablab) contenente i driver e i programmi necessari. Infine il materiale da tagliare, se ne può trovare un ampio campionario in sede, ma è anche possibile portarlo da fuori. 
 
 ### Vinylcutter Roland CAMM-1 SERVO GX-24
 
