@@ -1,6 +1,6 @@
 # Vinylcut
 
-## Inserire qua cosa puoi fare con la vc
+## Cosa si può fare con la Vinylcut
 È un macchinario a controllo numerico utilizzato per il taglio di fogli di plastica autoadesiva (chiamata vinile) e materiali in fogli con uno spessore massimo di 0,5 mm.    
 [Per maggiori informazioni](https://en.wikipedia.org/wiki/Vinyl_cutter)
 
@@ -12,7 +12,7 @@ Foto e link dell'esempio.
 Esempi di lavorazione. (Applicazioni)
 
 ## Strumenti e file 
-Testo sommario delle cose che servono
+Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi accessori utili. Questa deve però essere collegata ad un computer (fornito dal Fablab) contenente i driver e i programmi necessari. Infine il materiale da tagliare, se ne può trovare un ampio campionario in sede, ma è anche possibile portarlo da fuori. 
 
 ### Vinylcutter Roland CAMM-1 SERVO GX-24
 
@@ -28,12 +28,12 @@ Testo sommario delle cose che servono
 | Precisione di ripetizione          | ±0.1 mm o inferiore                      |      
 
 ### Materiali
-I materiali più utilizzati sono [vinile](inserire link venditore vinili), [poliestere](inserire link), poliuretano e sandblast, ma gestisce tranquillamente anche materiali più pesanti come PVC flessibili, floccati, fluorescenti e vinili riflettenti.
+I materiali più utilizzati sono [vinile](http://www.tosingraf.com/vinili-adesivi-da-stampa-e-taglio.html), [poliestere](https://www.cplfabbrika.com/transfer/transfer-laser/poliestere-adesivo-stampabile.html) e [sandblast](https://www.fcsrl.com/categoria-prodotto/vinile-per-sabbiatura/), ma gestisce tranquillamente anche materiali più pesanti come [PVC flessibili](https://www.sinovinyl.com/product/color-pvc-graphic-cutting-vinyl-roll-film/), [floccati](https://tuttotransfer.it/termoadesivi-flex-e-flock-/termoadesivi-flock-floccato-velluto-scamosciato/) e [vinili riflettenti](https://stampacontinua.it/index.php?route=product/category&path=1437_1441).   
 Lo spessore e le dimensioni del materiale dipendono dal macchinario e dalla lama di taglio, vedere le [caratteristiche tecniche](#vinylcutter-roland-camm-1-servo-gx-24)
 
 ### PC coi software
 Computer con sistemi operativi successivi a Windows 98 SE.   
-I plotter da taglio Roland sono equipaggiati con il software [CutStudio](inserire link per scaricare). Il software consente di creare loghi e scritte e di modificarli, allargandoli, ruotandoli, specchiandoli e scalandoli.
+I plotter da taglio Roland sono equipaggiati con il software [CutStudio](https://www.rolanddg.it/prodotti/software/roland-cutstudio-software). Il software consente di creare loghi e scritte e di modificarli, allargandoli, ruotandoli, specchiandoli e scalandoli.
 
 ### File 
 Il computer presente in laboratorio e collegato alla Vinylcut possiede i software necessari alle fasi di [preparazione del file](#preparare-il-file--todo) e [taglio](#mandare-in-taglio).
