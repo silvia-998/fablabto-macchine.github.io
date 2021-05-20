@@ -73,19 +73,18 @@ apertura cutstudio (manca screen)
 apertura file (manca screen)
 
 file su cutstudio (screen 07)   
-impostare dimensione foglio/rotolo (screen 08-)
-ridimensionare e spostare contorno di taglio
+impostare dimensione foglio/rotolo (screen 08-modificare inserendo flusso comandi completo)
+ridimensionare e spostare contorno di taglio (screen 09-evidenziare comando spostare in alto e modifica dimensioni di lato)
 
 ### Impostare i parametri di taglio
-gf della lama
+gf della lama (foto)
 offset (dipende dalla lama)
 come eseguire il test
 
 ### Mandare in taglio
-posizionare la testina nel punto iniziale di taglio e impostare nuova origine
+posizionare la testina nel punto iniziale di taglio e impostare nuova origine (foto tasto origine)
 
-cutstudio
-avviare il taglio
+cutstudio avviare il taglio (screen 10-evidenziare tasti)
 
 controllo e regolazione taglio
 togliere il materiale
