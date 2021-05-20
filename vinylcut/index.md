@@ -131,17 +131,14 @@ A fine lavorazione o per cambiare il materiale bisogna estrarre il rotolo o il f
 ![caricare il materiale ma al contrario](vinylcut/../img/500x300.png)
 
 ### Spegnimento 
-spegnere macchinario   
+A fine utilizzo, spegnere la Vinylcut tramite il tasto __POWER__ (tenerlo premuto?)    
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)   
 
-togliere usb   
+Espellere la USB dal computer tramite la rimozione sicura dell'hardware, come mostrato in figura.   
 ![screen 11](vinylcut/../img/500x300.png)   
 
-spegnere computer   
+Procedere infine con lo spegnimento del computer tramite Arresto del sistema. Per ultimo spegnere lo schermo del computer, premendo l'apposito tasto.  
 ![screen 12](vinylcut/../img/500x300.png)   
-
-spegnere schermo   
-![foto schermo- evidenziare tasto](vinylcut/../img/500x300.png)
 
 ## Il post-processing
 separare area di taglio   
