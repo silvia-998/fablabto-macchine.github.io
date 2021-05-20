@@ -48,7 +48,7 @@ Un'[estensione di Inkscape](https://wiki.inkscape.org/wiki/index.php/Inkscape_Ex
 ### Accessori (forbici taglierini ecc.)
 Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di separazione, base del rullo, pinzette, materiale di prova, nastro applicativo, cavo USB, CD-ROM, manuale d’uso 
 
-## Inserire qua come eseguire il taglio
+## Il processo di taglio
 
 ### Accensione
 Accendere il computer e lo schermo ad esso collegato, premendo gli appositi tasti (evidenziati in figura).  
@@ -70,41 +70,47 @@ Spostare i due _pinch roller_ (rulli di fissaggio) negli spazi bianchi segnati, 
 Ricontrollare il posizionamento del materiale e alzare la _loading lever_ (leva di caricamento) per fissare il materiale alla Vinylcut.   
 ![foto prima e dopo](vinylcut/../img/500x300.png)   
 
-Sul display del _operation panel_ (pannello di controllo) compare la scritta "CARICO FOGLIO". Premere __↑__ o __↓__ sulla pulsantiera per sbloccare la selezione del supporto. Quindi scegliere con i tasti __←__ o __→__ il tipo di supporto utilizzato, tra ROTOLO, FOGLIO o BORDO. Infine premere __ENTER__ per confermare la scelta.  
+Sul display del _operation panel_ (pannello di controllo) compare la scritta "CARICO FOGLIO". Premere __↑__ o __↓__ sulla pulsantiera per sbloccare la selezione del supporto. Quindi scegliere con i tasti __←__ o __→__ il tipo di supporto utilizzato, tra "ROTOLO", "FOGLIO" o "BORDO". Infine premere __ENTER__ per confermare la scelta.  
 ![foto-evidenziare tasti necessari+foto completamento azione](vinylcut/../img/500x300.png)
 
-### Preparare il file // TODO
-inserire chiavetta   
+### Preparare il file
+Tramite USB mettere i file sul computer collegato al macchinario. Il file deve essere in uno dei formati citati in nella [sezione file](#file).   
 ![foto](vinylcut/../img/500x300.png)
 
-apertura inkscape   
+Se il formato file è tra quelli letti da [Inkscape](#plug-in-per-inkscape), aprire quindi il programma (di seguito la schermata iniziale).   
 ![screen 01](vinylcut/../img/500x300.png)   
-apertura file   
+
+Per aprire il file contenente il contorno di taglio, seguire il percorso __file__>__importa__>selezionare il file.  
 ![screen 02+screen 03](vinylcut/../img/500x300.png)   
-controllo linee   
+
+È buona pratica fare un controllo delle linee per evitare linee doppie ed errori durante il taglio. Per cambiare la visualizzazione seguire il percorso __visualizza__>__modalità visualizzazione__>__scheletro__.  
 ![screen 04+screen 05](vinylcut/../img/500x300.png)   
-apri file in cutstudio   
+
+Grazie all'[estensione](#plug-in-per-inkscape) è quindi possibile aprire il file direttamente su Cutstudio, seguendo il percorso __estensioni__>__Roland__>__open in Cutstudio__.   
 ![screen 06](vinylcut/../img/500x300.png)
 
 
-apertura cutstudio   
+Se il formato file è tra quelli letti da [Cutstudio](#cutstudio) si può decidere di aprire il file direttamente su questo programma seguendo il percorso (vedere percorso).   
 ![manca screen](vinylcut/../img/500x300.png)   
 
-apertura file   
-![manca screen](vinylcut/../img/500x300.png)
-
-file su cutstudio   
+Aperto il file su Cutstudio, l'interfaccia si presenterà così.   
 ![screen 07](vinylcut/../img/500x300.png)      
-impostare dimensione foglio/rotolo   
+
+LA Vinylcut durante il [caricamento del materiale](#caricare-il-materiale) misura in automatico la dimensione della superficie utile di taglio. Per riportare queste misure sul foglio di lavoro seguire il percorso __tagliare__>__modifica__>__proprietà__>__get from machine__. Confermare quindi l'operazione cliccando su __ok__ nelle prime due finestre, ma facendo attenzione a selezionare __annulla__ nell'ultima (come mostrato in foto).   
 ![screen 08-modificare inserendo flusso comandi completo](vinylcut/../img/500x300.png)   
-ridimensionare e spostare contorno di taglio   
+
+È ora possibile ridimensionare e spostare il contorno di taglio.   
+Per ridurre lo spreco di materiale conviene utilizzare il comando __spostare__ (in alto a destra) per posizionare i contorni in corrispondenza dell'origine di taglio.   
+Per ridurre o aumentare le dimensioni del contorno si può agire sulle frecce agli angoli del file (tenendo premuto __SHIFT__ per mantenere le proporzioni) o, per avere una misura precisa, modificare i valori nella colonna destra (spuntare la casella __Conserva Aspetto__ per mantenere le proporzioni).
 ![screen 09-evidenziare comando spostare in alto e modifica dimensioni di lato](vinylcut/../img/500x300.png)
 
 ### Impostare i parametri di taglio
 gf della lama   
 ![foto-evidenziare tasti necessari+foto completamento azione](vinylcut/../img/500x300.png)   
+
 offset   
 ![dipende dalla lama-manca foto di come cambiarlo](vinylcut/../img/500x300.png)   
+
 come eseguire il test   
 ![foto tastierino-evidenziare tasti necessari+foto step del test](vinylcut/../img/500x300.png)
 
@@ -117,27 +123,35 @@ cutstudio avviare il taglio
 
 controllo e regolazione taglio   
 ![foto tastierino evidenziando pen force+risultato finale taglio](vinylcut/../img/500x300.png)   
+
 togliere il materiale   
 ![caricare il materiale ma al contrario](vinylcut/../img/500x300.png)
 
 ### Spegnimento 
 spegnere macchinario   
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)   
+
 togliere usb   
 ![screen 11](vinylcut/../img/500x300.png)   
+
 spegnere computer   
 ![screen 12](vinylcut/../img/500x300.png)   
+
 spegnere schermo   
 ![foto schermo- evidenziare tasto](vinylcut/../img/500x300.png)
 
-## Post-processing
+## Il post-processing
 separare area di taglio   
 ![foto](vinylcut/../img/500x300.png)  
+
 spellicolare esterno e interno   
 ![foto](vinylcut/../img/500x300.png)  
+
 taglio transfer   
 ![foto](vinylcut/../img/500x300.png)   
+
 applicazione transfer   
 ![foto](vinylcut/../img/500x300.png)   
+
 applicazione sticker   
 ![foto](vinylcut/../img/500x300.png)
