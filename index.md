@@ -11,7 +11,7 @@ Questa pagina raccoglie i macchinari che puoi utilizzare al FabLab Torino e tutt
 
 # Vinylcut
 <p align="center">
-  <img width="400" height="400" src="vinylcut/img/vinylcut.jpg">
+  <img width="400" height="200" src="vinylcut/img/vinylcut.jpg">
 </p>
 
 link alla 
