@@ -77,22 +77,27 @@ impostare dimensione foglio/rotolo (screen 08-modificare inserendo flusso comand
 ridimensionare e spostare contorno di taglio (screen 09-evidenziare comando spostare in alto e modifica dimensioni di lato)
 
 ### Impostare i parametri di taglio
-gf della lama (foto)
-offset (dipende dalla lama)
-come eseguire il test
+gf della lama (foto-evidenziare tasti necessari+foto completamento azione)
+offset (dipende dalla lama-manca foto di come cambiarlo)
+come eseguire il test (foto tastierino-evidenziare tasti necessari+foto step del test)
 
 ### Mandare in taglio
 posizionare la testina nel punto iniziale di taglio e impostare nuova origine (foto tasto origine)
 
 cutstudio avviare il taglio (screen 10-evidenziare tasti)
 
-controllo e regolazione taglio
-togliere il materiale
+controllo e regolazione taglio (foto tastierino evidenziando pen force+risultato finale taglio)
+togliere il materiale (caricare il materiale ma al contrario)
 
 ### Spegnimento 
-spegnere macchinario
-spegnere computer
-spegnere schermo
+spegnere macchinario (foto-modificarla evidenziando tasti di accensione)
+togliere usb (screen 11)
+spegnere computer (screen 12)
+spegnere schermo (foto schermo- evidenziare tasto)
 
 ## Post-processing
-Come usare il transfer
+separare area di taglio (foto)
+spellicolare esterno e interno (foto)
+taglio transfer (foto)
+applicazione transfer (foto)
+applicazione sticker (foto)
