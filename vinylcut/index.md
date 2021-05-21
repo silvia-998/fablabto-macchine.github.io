@@ -65,7 +65,7 @@ Per tagliare i fogli in vinile segui i passaggi illustrati in seguito.
 
 ### Accensione
 Accendere computer e schermo e assicurarsi che il cavo USB sia collegato alla vinycut.
-![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)  
+![foto-modificarla evidenziando tasti di accensione](img/accensione-pc.jpg)  
 
 Accendere il macchinario tramite il tasto `POWER` .   
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)
