@@ -85,7 +85,7 @@ Alzare la leva di caricamento (__loading lever__).
 ![foto prima e dopo](img/leva-alzata.jpg)   
 
 Sul display del pannello di controllo (__operation panel__) compare la scritta `"CARICO FOGLIO"`. Scegliere con i tasti `←` o `→` il tipo di supporto utilizzato, tra `"ROTOLO"`, `"FOGLIO"` o `"BORDO"`. Premere `ENTER` per confermare.  
-![foto-evidenziare tasti necessari+foto completamento azione](vinylcut/../img/500x300.png)
+![foto-evidenziare tasti necessari+foto completamento azione](img/selezione-media.jpg)
 
 ### Preparare il file
 Tramite USB mettere i file sul computer collegato al macchinario. Il file deve essere in uno dei formati citati in nella [sezione file](#file).   
