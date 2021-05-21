@@ -32,6 +32,8 @@ Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi 
 
 Per informazioni più specifiche consultare la [scheda tecnica](src/Scheda-tecnica.pdf) e il [manuale dell'utente](/vinylcut/src/users-manual-en.pdf)
 
+![retro vinylcut](img/vista-vinylcut-2.png)
+
 <!-- Aggiungere foto della Vinylcut con i nomi delle componenti principali -->
 
 ### Materiali
