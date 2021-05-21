@@ -61,7 +61,7 @@ Chiavetta USB, forbici, altri tipi di lame, [_Transfer_ o pellicola di trasferim
 Per tagliare i fogli in vinile segui i passaggi illustrati in seguito.
 
 ### Accensione
-Accendere computere schermo e assicurarsi che il cavo USB sia collegato alla vinycut.
+Accendere computer e schermo e assicurarsi che il cavo USB sia collegato alla vinycut.
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)  
 
 Accendere il macchinario tramite il tasto __POWER__ .   
@@ -164,3 +164,5 @@ Applicare quindi il _Transfer_ assicurandosi di avere una adesione completa e om
 Finalmente si può applicare lo sticker sulla superficie desiderata!   
 Separare il transfer e l'adesivo dalla carta protettiva, posizionarlo sulla superficie scelta e incollarlo in modo omogeneo.   
 ![foto](vinylcut/../img/500x300.png)
+
+## FAQ
