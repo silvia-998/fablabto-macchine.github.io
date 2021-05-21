@@ -48,7 +48,11 @@ Supporta file di formato BMP, JPG, STX, AI ed EPS. Accetta inoltre immagini acqu
 Un'[estensione di Inkscape](https://wiki.inkscape.org/wiki/index.php/Inkscape_Extensions) permette di inviare il file di taglio a Cutsudio, ampliando le tipologie di file supportati da Cutstudio. Supporta file di formato SVG, STX AI, DXF, CDR, PDF, BMP, JPG, PNG e TIFF.
 
 ### Accessori (forbici taglierini ecc.)
+#### Accessori compresi con la Vinylcut
 Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di separazione, base del rullo, pinzette, materiale di prova, nastro applicativo, cavo USB, CD-ROM, manuale d’uso 
+
+#### Accessori aggiuntivi
+Chiavetta USB, forbici, altri tipi di lame, [_Transfer_ o pellicola di trasferimento](https://www.necchishop.com/prodotto/pellicola-per-il-trasferimento/) 
 
 ## Il processo di taglio
 
@@ -146,7 +150,7 @@ Procedere infine con lo spegnimento del computer tramite Arresto del sistema. Pe
 Per iniziare il post-processing, dopo aver separato la zona con il contorno tagliato, si deve rimuovere l'adesivo in eccesso. Nel caso di forme complesse si dovrà spellicolare sia la parte esterna, sia quella interna al contorno di taglio.   
 ![2 foto+risultato](vinylcut/../img/500x300.png)  
 
-Per poter trasferire l'adesivo della carta protettiva alla superficie di applicazione, bisogna usare il [_Transfer_ o pellicola di trasferimanto](https://www.necchishop.com/prodotto/pellicola-per-il-trasferimento/). Tagliare dunque un pezzo di _Transfer_ abbastanza grande da coprire tutto lo sticker.   
+Per poter trasferire l'adesivo della carta protettiva alla superficie di applicazione, bisogna usare il [_Transfer_ o pellicola di trasferimento](https://www.necchishop.com/prodotto/pellicola-per-il-trasferimento/). Tagliare dunque un pezzo di _Transfer_ abbastanza grande da coprire tutto lo sticker.   
 ![foto](vinylcut/../img/500x300.png)   
 
 Applicare quindi il _Transfer_ assicurandosi di avere una adesione completa e omogenea allo sticker. Per questo passaggio ci si può aiutare con oggetti con almeno un lato dritto, come spatole o anche carte elettroniche (tipo la tessera del Fablab!). Per una ulteriore prova si può sollevare leggermente il _Transfer_ e controllare che lo sticker vi rimanga attaccato, come mostrato in foto.  
