@@ -146,14 +146,15 @@ Procedere infine con lo spegnimento del computer tramite Arresto del sistema. Pe
 separare area di taglio   
 ![foto](vinylcut/../img/500x300.png)  
 
-spellicolare esterno e interno   
-![foto](vinylcut/../img/500x300.png)  
+Per iniziare il post-processing, dopo aver separato la zona con il contorno tagliato, si deve rimuovere l'adesivo in eccesso. Nel caso di forme complesse si dovrà spellicolare sia la parte esterna, sia quella interna al contorno di taglio.   
+![2 foto+risultato](vinylcut/../img/500x300.png)  
 
-taglio transfer   
+Per poter trasferire l'adesivo della carta protettiva alla superficie di applicazione, bisogna usare il [_Transfer_ o pellicola di trasferimanto](https://www.necchishop.com/prodotto/pellicola-per-il-trasferimento/). Tagliare dunque un pezzo di _Transfer_ abbastanza grande da coprire tutto lo sticker.   
 ![foto](vinylcut/../img/500x300.png)   
 
-applicazione transfer   
+Applicare quindi il _Transfer_ assicurandosi di avere una adesione completa e omogenea allo sticker. Per questo passaggio ci si può aiutare con oggetti con almeno un lato dritto, come spatole o anche carte elettroniche (tipo la tessera del Fablab!). Per una ulteriore prova si può sollevare leggermente il _Transfer_ e controllare che lo sticker vi rimanga attaccato, come mostrato in foto.  
 ![foto](vinylcut/../img/500x300.png)   
 
-applicazione sticker   
+Finalmente si può applicare lo sticker sulla superficie desiderata!   
+Separare il transfer e l'adesivo dalla carta protettiva, posizionarlo sulla superficie scelta e incollarlo in modo omogeneo.   
 ![foto](vinylcut/../img/500x300.png)
