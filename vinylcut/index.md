@@ -56,7 +56,7 @@ Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di s
 Accendere il computer e lo schermo ad esso collegato, premendo gli appositi tasti (evidenziati in figura).  
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)  
 
-Accendere il macchinario tramite il tasto __POWER__ (tenerlo premuto?) (evidenziato in figura).   
+Accendere il macchinario tramite il tasto __POWER__ (evidenziato in figura).   
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)
 
 ### Caricare il materiale 
@@ -133,7 +133,7 @@ A fine lavorazione o per cambiare il materiale bisogna estrarre il rotolo o il f
 ![caricare il materiale ma al contrario](vinylcut/../img/500x300.png)
 
 ### Spegnimento 
-A fine utilizzo, spegnere la Vinylcut tramite il tasto __POWER__ (tenerlo premuto?)    
+A fine utilizzo, spegnere la Vinylcut tenendo premuto il tasto __POWER__.   
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)   
 
 Espellere la USB dal computer tramite la rimozione sicura dell'hardware, come mostrato in figura.   
@@ -143,9 +143,6 @@ Procedere infine con lo spegnimento del computer tramite Arresto del sistema. Pe
 ![screen 12](vinylcut/../img/500x300.png)   
 
 ## Il post-processing
-separare area di taglio   
-![foto](vinylcut/../img/500x300.png)  
-
 Per iniziare il post-processing, dopo aver separato la zona con il contorno tagliato, si deve rimuovere l'adesivo in eccesso. Nel caso di forme complesse si dovrà spellicolare sia la parte esterna, sia quella interna al contorno di taglio.   
 ![2 foto+risultato](vinylcut/../img/500x300.png)  
 
