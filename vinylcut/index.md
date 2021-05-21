@@ -68,7 +68,7 @@ Accendere computer e schermo e assicurarsi che il cavo USB sia collegato alla vi
 ![foto-modificarla evidenziando tasti di accensione](img/accensione-pc.jpg)  
 
 Accendere il macchinario tramite il tasto `POWER` .   
-![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)
+![foto-modificarla evidenziando tasti di accensione](img/accensione-vinyl.jpg)
 
 ### Caricare il materiale 
 Abbassare la leva di caricamento (__loading lever__) sul retro a sinistra.
