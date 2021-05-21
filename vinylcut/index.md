@@ -32,7 +32,8 @@ Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi 
 
 Per informazioni più specifiche consultare la [scheda tecnica](src/Scheda-tecnica.pdf) e il [manuale dell'utente](/vinylcut/src/users-manual-en.pdf)
 
-![retro vinylcut](img/vista-vinylcut-2.png)
+![fronte vinylcut](img/davanti-vinyl.png)  
+![retro vinylcut](img/retro-vinyl.png)    
 
 <!-- Aggiungere foto della Vinylcut con i nomi delle componenti principali -->
 
@@ -122,7 +123,7 @@ Il taglio è ben fatto se si riesce a spellicolare il cerchio senza rimuovere il
 ![foto tastierino-evidenziare tasti necessari+foto step del test](vinylcut/../img/500x300.png)
 
 ### Mandare in taglio
-Prima di avviare il taglio su un rotolo è bene impostare il punto di origine. Nel caso del rotolo il punto di origine dipende dalla posizione di caricamento ed è quindi utile cambiare il punto di origine del taglio: spostare ilcarrello di taglio (__cutting carriage__) nel punto di origine desiderato con i tasti `←`, `→`, `↑` e `↓`. Nella posizione desiderata premere `ORIGIN` sul pannello di controllo (__operation panel__).
+Prima di avviare il taglio su un rotolo è bene impostare il punto di origine. Nel caso del rotolo il punto di origine dipende dalla posizione di caricamento ed è quindi utile cambiare il punto di origine del taglio: spostare ilcarrello di taglio (__cutting carriage__) nel punto di origine desiderato con i tasti `←`, `→`, `↑` e `↓`. Nella posizione desiderata premere `ORIGIN` sul pannello di controllo (__operation panel__).   
 ![foto tasto origine](vinylcut/../img/500x300.png)
 
 Si può dunque avviare il taglio da Cutstudio, seguendo il percorso _tagliare_>_ok_.     
