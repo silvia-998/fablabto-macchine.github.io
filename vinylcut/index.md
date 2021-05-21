@@ -73,16 +73,16 @@ Accendere il macchinario tramite il tasto `POWER` .
 ### Caricare il materiale 
 Abbassare la leva di caricamento (__loading lever__) sul retro a sinistra.
 <!--  Foto della leva e freccia con la direzione per abbassarla -->
-![foto prima e dopo](vinylcut/../img/500x300.png)   
+![foto prima e dopo](img/leva-abbassata.jpg)   
 
-Inserire posteriormente  il materiale facendolo scorrere attraverso la fessura della macchina e, se necessario, appoggiarlo al __portarotolo__.    
-![foto allineamento](vinylcut/../img/500x300.png)
+Inserire posteriormente  il materiale facendolo scorrere attraverso la fessura della macchina e, se necessario, appoggiarlo al __portarotolo__. Posizionare il materiale in modo che sia parallelo alle linee guida (__guide lines__) in rilievo alla base del macchinario.   
+![foto allineamento](img/guide-lines.jpg)
 
 Spostare i due rulli di fissaggio (__pinch roller__) negli spazi bianchi segnati, facendoli scorrere dalla parte posteriore della macchina. 
-![foto-aggiungere frecce spostamento](vinylcut/../img/500x300.png)   
+![foto-aggiungere frecce spostamento](img/rulli-fissaggio.jpg)   
 
-Posizionare il materiale in modo che sia parallelo alle linee guida (__guide lines__) in rilievo alla base del macchinario e alzare la leva di caricamento (__loading lever__).   
-![foto prima e dopo](vinylcut/../img/500x300.png)   
+Alzare la leva di caricamento (__loading lever__).   
+![foto prima e dopo](img/leva-alzata.jpg)   
 
 Sul display del pannello di controllo (__operation panel__) compare la scritta `"CARICO FOGLIO"`. Scegliere con i tasti `←` o `→` il tipo di supporto utilizzato, tra `"ROTOLO"`, `"FOGLIO"` o `"BORDO"`. Premere `ENTER` per confermare.  
 ![foto-evidenziare tasti necessari+foto completamento azione](vinylcut/../img/500x300.png)
