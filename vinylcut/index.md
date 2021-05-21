@@ -14,6 +14,7 @@ Esempi di lavorazione. (Applicazioni)
 ## Strumenti e file 
 Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi accessori utili. Questa deve però essere collegata ad un computer (fornito dal Fablab) contenente i driver e i programmi necessari. Infine serve il materiale da tagliare, è possibile portarlo da fuori, ma se ne può trovare un ampio campionario in sede.   
 
+<!-- Sostituire immagine con foto del tavolo con tutto sopra. Mettere scritte per dire cosa sono i vari elementi (Campionario, PC, schermo, vinylcut ecc.) -->
 ![foto campionario](img/foto-campionario.jpg) 
 
 ### Vinylcutter Roland CAMM-1 SERVO GX-24
@@ -30,6 +31,8 @@ Per il taglio dei vinili è ovviamente necessaria una Vinylcut con tutti i suoi 
 | Precisione di ripetizione          | ±0.1 mm o inferiore                      |      
 
 Per informazioni più specifiche consultare la [scheda tecnica](src/Scheda-tecnica.pdf) e il [manuale dell'utente](src/Users-Manual%20(EN).pdf)
+
+<!-- Aggiungere foto della Vinylcut con i nomi delle componenti principali -->
 
 ### Materiali
 I materiali più utilizzati sono [vinile](http://www.tosingraf.com/vinili-adesivi-da-stampa-e-taglio.html), [poliestere](https://www.cplfabbrika.com/transfer/transfer-laser/poliestere-adesivo-stampabile.html) e [sandblast](https://www.fcsrl.com/categoria-prodotto/vinile-per-sabbiatura/), ma gestisce tranquillamente anche materiali più pesanti come [PVC flessibili](https://www.sinovinyl.com/product/color-pvc-graphic-cutting-vinyl-roll-film/), [floccati](https://tuttotransfer.it/termoadesivi-flex-e-flock-/termoadesivi-flock-floccato-velluto-scamosciato/) e [vinili riflettenti](https://stampacontinua.it/index.php?route=product/category&path=1437_1441).   
@@ -51,25 +54,27 @@ Un'[estensione di Inkscape](https://wiki.inkscape.org/wiki/index.php/Inkscape_Ex
 Adattatore di corrente, cavo di alimentazione, lama, porta lama, taglierino di separazione, base del rullo, pinzette, materiale di prova, nastro applicativo, cavo USB, CD-ROM, manuale d’uso 
 
 ## Il processo di taglio
+Per tagliare i fogli in vinile segui i passaggi illustrati in seguito.
 
 ### Accensione
-Accendere il computer e lo schermo ad esso collegato, premendo gli appositi tasti (evidenziati in figura).  
+Accendere computere schermo e assicurarsi che il cavo USB sia collegato alla vinycut.
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)  
 
-Accendere il macchinario tramite il tasto __POWER__ (evidenziato in figura).   
+Accendere il macchinario tramite il tasto __POWER__ .   
 ![foto-modificarla evidenziando tasti di accensione](vinylcut/../img/500x300.png)
 
 ### Caricare il materiale 
-Prima di caricare nella macchina il materiale scelto, assicurarsi che la _loading lever_ (leva di caricamento) posteriore sia abbassata e nel caso non lo fosse, abbassarla.  
+Abbassare la leva di caricamento (_loading lever_) sul retro a sinistra.
+<!--  Foto della leva e freccia con la direzione per abbassarla -->
 ![foto prima e dopo](vinylcut/../img/500x300.png)   
 
-Inserire posteriormente il materiale facendolo scorrere attraverso la fessura della macchina. Quindi assicurarsi che sia parallelo alle _guide lines_ (linee guida) in rilievo alla base del macchinario.   
+Inserire posteriormente  il materiale facendolo scorrere attraverso la fessura della macchina e, se necessario, appoggiarlo al __portarotolo__.    
 ![foto allineamento](vinylcut/../img/500x300.png)
 
-Spostare i due _pinch roller_ (rulli di fissaggio) negli spazi bianchi segnati, facendoli scorrere dalla parte posteriore della macchina. 
+Spostare i due rulli di fissaggio (_pinch roller_) negli spazi bianchi segnati, facendoli scorrere dalla parte posteriore della macchina. 
 ![foto-aggiungere frecce spostamento](vinylcut/../img/500x300.png)   
 
-Ricontrollare il posizionamento del materiale e alzare la _loading lever_ (leva di caricamento) per fissare il materiale alla Vinylcut.   
+Posizionare il materiale in modo che sia parallelo alle linee guida (_guide lines_) in rilievo alla base del macchinario e alzare la leva di caricamento (_loading lever_) per fissare il materiale alla Vinylcut.   
 ![foto prima e dopo](vinylcut/../img/500x300.png)   
 
 Sul display del _operation panel_ (pannello di controllo) compare la scritta "CARICO FOGLIO". Premere __↑__ o __↓__ sulla pulsantiera per sbloccare la selezione del supporto. Quindi scegliere con i tasti __←__ o __→__ il tipo di supporto utilizzato, tra "ROTOLO", "FOGLIO" o "BORDO". Infine premere __ENTER__ per confermare la scelta.  
